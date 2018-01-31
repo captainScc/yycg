@@ -1,0 +1,14 @@
+.idea
+target
+.project
+.classpath
+.settings
+bin
+.iml
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+*.iml
+out
+gen
